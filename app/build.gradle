@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "30.0.0"
     defaultConfig {
-        applicationId "com.shubhamindia.assistant"
+        applicationId "com.shubham16.volumeassistant"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
